@@ -10,6 +10,7 @@ namespace gitVoorbeeld
     {
         static void Main(string[] args)
         {
+            Console.Write("brol");
         }
     }
 }
